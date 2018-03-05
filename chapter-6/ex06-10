@@ -1,0 +1,2 @@
+for (counter = 1; counter < MAXVALUE; counter++) //;
+    printf("\nCounter = %d", counter );
