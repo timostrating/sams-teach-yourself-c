@@ -13,12 +13,12 @@ int plus(int a, int b)
 int divide(int a, int b)
 {
     if (b == 0)
-        return null;
+        return 0;
 
     return a / b;
 }
 
 int mega_sum(int a, int b) 
 {
-    return plus(a, b) + devide(int a, int b);
+    return plus(a, b) + devide(a, b);
 }
